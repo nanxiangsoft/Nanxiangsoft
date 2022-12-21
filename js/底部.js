@@ -1,0 +1,14 @@
+document.writeln("<div id=\"footer\">");
+document.writeln("	<div class=\"about\">");
+document.writeln("		<dl>");
+document.writeln("			<dt>关于</dt>");
+document.writeln("			 <dd><a href=\"C:\Users\86182\Desktop\html学习\关于我们.html\">关于楠翔</a></dd>");
+document.writeln("			 <dd><a href=\"//www.lanrentuku.com/about/values.html\">我们的价值观</a></dd>");
+document.writeln("			 <dd><a href=\"//www.lanrentuku.com/about/event.html\">大事记</a></dd>");
+document.writeln("			 <dd><a href=\"//www.lanrentuku.com/about/copyright.html\">版权声明</a></dd>");
+document.writeln("			 <dd><a href=\"//www.lanrentuku.com/about/ad.html\">广告服务</a></dd> ");
+document.writeln("			 <dd><a href=\"C:\Users\86182\Desktop\html学习\联系我们.html"\">联系我们</a></dd>");
+document.writeln("		</dl>");
+document.writeln("		<dl>");
+document.writeln("</div>");
+document.writeln("<a title=\"返回顶部\" class=\"top\" href=\"#\"></a>");

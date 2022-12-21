@@ -1,0 +1,26 @@
+.nx-cont{
+width: 365px;
+height:375px;
+margin:20px auto;
+border:1px solid #f00;
+background:url(C:\Users\86182\Desktop\html学习\图片\nx-cont_bg.png");
+}
+/*表单位置*/
+form{
+padding:65px 50px;
+}
+label{
+color:#fff;
+display:block;
+padding-top:10px;
+position:relative;
+}
+/*输入样式*/
+label input{
+height:25px;
+width:200px;
+position:absolute;
+}
+label img{
+height:28px
+}
